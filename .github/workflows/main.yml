@@ -39,4 +39,4 @@ jobs:
         run: bash <(curl -s https://codecov.io/bash)
         
       - name: Pylint
-        run: pylint src
+        run: poetry run pylint src
