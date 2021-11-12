@@ -6,4 +6,4 @@
 [palautusrepo](https://github.com/Pentza/ohjelmistotuotanto-2021)
 
 - [viikko 1](https://github.com/Pentza/ohjelmistotuotanto-2021/tree/main/viikko1)
-- [viikko 1](https://github.com/Pentza/ohjelmistotuotanto-2021/tree/main/viikko2)
+- [viikko 2](https://github.com/Pentza/ohjelmistotuotanto-2021/tree/main/viikko2)
